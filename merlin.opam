@@ -17,6 +17,7 @@ depends: [
   "yojson" {>= "1.6.0"}
   "conf-jq" {with-test}
   "csexp" {>= "1.2.3"}
+  "camlp-streams"
   "menhir" {dev}
   "menhirLib" {dev}
   "menhirSdk" {dev}
